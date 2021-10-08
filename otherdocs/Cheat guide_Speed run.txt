@@ -1,0 +1,41 @@
+Cheat guide: how to finish the game quickly
+Use the following input to progess as quickly as possible.
+Otherwise, explore at your leisure, use inventory to check what to do next
+
+[input #] - description
+
+[any option] - selcts hero
+[any option] - dialogue
+[any option] - dialogue
+[5] - go to city center
+[5] - go to library
+[3] - get son's story
+[6] - go to city center
+[9] - go to stables
+[1] - get bow
+[5] - go to city center
+[3] - go to general store
+[1] - get gemstone
+[5] - go to city center
+[6] - go to museum
+[any option] - get oars
+[6] - go to city center
+[1] - go to city gates
+[3] - go to catnip fields
+[1] - use boat
+[any option] - go into island, get Master Sword
+[3] - return to capitol
+[5] - go to city center
+[7] - go to bar
+[any option] - get Taco stand location
+[5] - go to city center (will automatically buy Taco before leaving
+[4] - go to mayor's house
+[1] - talk to mayor (automaticaly get's dialogue, key, and thrown in prison)
+[3] - talk to prisoner (dialogue, sent to city center)
+[8] - go to alley
+[any option] - will be sent to hunting grounds
+[2] - will be sent to forest, dialogue, get mouse
+
+Combat: player can choose any option, they will not die (4 is quickest way to progress)
+
+Gannon cat appears, any option moves to final dialogue, game ends
